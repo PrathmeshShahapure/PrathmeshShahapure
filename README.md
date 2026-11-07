@@ -13,16 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=PrathmeshShahapure"
-    alt="GitHub Streak"
-    height="210"
-  />
-  <img
-    src="https://codeforces-readme-stats.vercel.app/api/card?username=PrathmeshShahapure"
-    alt="Codeforces Stats"
-    height="200"
-  />
-</p>
+
 
